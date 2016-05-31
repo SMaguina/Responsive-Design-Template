@@ -20,3 +20,6 @@ This is a template I've created and continuosly added to for mobile first design
 **Apply a natural box layout model to all elements to not have padding overflow occur**
 
 `* {box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;  }`
+
+
+Each stylesheet contains their own grid system that can be adjusted and customized based on your own unique site structure needs. Additionally, the template includes the general breakpoints for mobile, tablet, and desktop viewports. This also can be customized and changed based on your site needs.
